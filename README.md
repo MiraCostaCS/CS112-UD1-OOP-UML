@@ -1,14 +1,30 @@
-# Project Name
-Project Description
+# Lesson plan
+  
+  ** this file should contain teacher lesson plan details ** 
 
-## Tips/Notes
-Heads up that the .gitignore file here is for Java specifically! Edit as necessary for your language. Same with devcontainer and setting JSON files, they are customized for GitHub Codespaces use
+  __ students will never see this __
 
-## Part 1: Title
-Guidance for this part
+  ## Learning Objectives
+  1. 
+  2. 
+  3. 
 
-## Part 2: Title
-Repeat as necessary
+  Use [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) to format your lesson plan.
 
-## Hacker Challenge
-Can provide extra hacker challenge here, tips, TL;DR, etc.
+  For example, here is a code block in java10_beta
+```java
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("hello world");
+  }
+}
+```
+
+  
+  Include an image by placing it in the `assets` folder.
+
+  For example, here is the Replit logo:
+
+  ![alt text](instructions/logo.png)
+  
+  
