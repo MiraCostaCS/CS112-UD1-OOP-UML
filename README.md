@@ -59,6 +59,9 @@ You're using some really sophisticated development tools, take advantage! Here a
 
 
 ## \*Group Work
+**Please give your instructor a heads up that you're working in a group, along with the members names, to modify your repository to allow all of you to modify the project!**
+* Tip: Create a branch for each member to work on, and [merge](https://www.youtube.com/watch?v=XX-Kct0PfFc) to resolve conflicts. Checkout other guides online as well as the tutors and your instructor for support!
+
 The [Project Requirements](#project-requirements*) above applies for individual projects. For group projects, modify as follows:
 - The model+tester requirement is per person
     - Example: team of 3 means you each build a model class + tester, for a total of 3 model classes and testers
